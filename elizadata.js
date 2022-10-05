@@ -4,9 +4,7 @@
 
 var elizaInitials = [
 "Welcome to liminal.rehab. I am djibril. What would you like to know ?",
-// additions (not original)
-"Please tell me what's been bothering you.",
-"Is something troubling you ?"
+"Welcome to liminal.rehab. I am djibril. What would you like to know ?"
 ];
 
 var elizaFinals = [
