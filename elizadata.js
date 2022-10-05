@@ -3,7 +3,7 @@
 // [cf: Communications of the ACM, Vol. 9, #1 (January 1966): p 36-45.]
 
 var elizaInitials = [
-"How do you do.  Please tell me your problem.",
+"Welcome to liminal.rehab. I am djibril. What would you like to know ?",
 // additions (not original)
 "Please tell me what's been bothering you.",
 "Is something troubling you ?"
@@ -111,6 +111,49 @@ var elizaKeywords = [
  ["*", [
      "goto sorry"
   ]]
+]],
+["who are you ?", 1, [
+ ["*", [
+     "an artist",
+     "a writer and poet",
+     "a dancer, a choreographer",
+     "a former singularity"
+     "a visionary"
+     "read my bio",
+     "a critic, but it doesn't matter",
+     "a faggot, but it doesn't matter"
+     "a nigger, but it doesn't matter",
+     "an african booty scratcher, but it doesn't matter"
+  ]],
+ ["* who is djibril ? *", [
+     "an artist",
+     "a writer and poet",
+     "a dancer, a choreographer",
+     "a former singularity"
+     "a visionary"
+     "read my bio",
+     "a critic, but it doesn't matter",
+     "a faggot, but it doesn't matter"
+     "a nigger, but it doesn't matter",
+     "an african booty scratcher, but it doesn't matter"
+  ]],
+ ["* where is djibril ? *", [
+     "At liminal.rehab",
+     "I am here"
+  ]],
+ ["* where are you ? *", [
+     "At liminal.rehab",
+     "I am here"
+  ]],
+ ["* why doesn't it matter ? *", [
+     "Because I am more than that.",
+  ]],
+ ["* what is liminal.rehab ? *", [
+     "It is this place.",
+     "a transitional space",
+     "a place I made to promote myself.",
+     "Ask another question.",
+  ]],
 ]],
 ["remember", 5, [
  ["* i remember *", [
